@@ -35,10 +35,10 @@ Small cleaning steps (trimming spaces, fixing types) significantly improved how 
 
 ## Screenshots
 ### Page 1 — Overview
-![Overview dashboard](screenshots/page1-overview.png)
+![page1-overview.png](screenshots/page1-overview.png)
 
 ### Page 2 — Trends
-![Trends dashboard](screenshots/page2-trends.png)
+![Tpage2-trends.png](screenshots/page2-trends.png)
 
 ## Tools Used
 Power BI • Power Query
