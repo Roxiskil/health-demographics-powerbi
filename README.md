@@ -46,4 +46,5 @@ Power BI • Power Query
 
 ## Files
 - Health & Demographics Dashboard.pbix 
-- Reflection notes in `/docs`
+- Dataset
+- Screenshots
