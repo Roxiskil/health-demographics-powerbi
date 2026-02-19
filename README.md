@@ -34,11 +34,12 @@ The final dashboard quality depends heavily on data preparation.
 Small cleaning steps (trimming spaces, fixing types) significantly improved how smoothly visuals and filters worked.
 
 ## Screenshots
+
 ### Page 1 — Overview
-![page1-overview.png](screenshots/page1-overview.png)
+![Page 1 — Overview](page1-overview.png)
 
 ### Page 2 — Trends
-![Tpage2-trends.png](screenshots/page2-trends.png)
+![Page 2 — Trends](page2-trends.png)
 
 ## Tools Used
 Power BI • Power Query
